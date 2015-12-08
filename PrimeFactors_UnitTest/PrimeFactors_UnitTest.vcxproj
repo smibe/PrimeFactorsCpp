@@ -82,6 +82,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="PrimeFactors.h" />
     <ClInclude Include="TestUtilities.h" />
   </ItemGroup>
   <ItemGroup>
